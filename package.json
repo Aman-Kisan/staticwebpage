@@ -1,7 +1,10 @@
 {
-  "name": "static-html",
+  "name": "static-html-app",
   "version": "1.0.0",
   "scripts": {
-    "build": "echo \"No build needed\""
+    "build": "echo 'Static HTML - no build needed'"
+  },
+  "engines": {
+    "node": ">=16"
   }
 }
